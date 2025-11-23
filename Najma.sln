@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "App", "App\App.vcxproj", "{62E94709-FDC9-4E33-B56A-F6D6487B41E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Najma", "Najma\Najma.vcxproj", "{F44D02E0-4C2C-474E-8FC6-18CC2D5B84E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44D02E0-4C2C-474E-8FC6-18CC2D5B84E9}.Debug|x64.ActiveCfg = Debug|x64
+		{F44D02E0-4C2C-474E-8FC6-18CC2D5B84E9}.Debug|x64.Build.0 = Debug|x64
+		{F44D02E0-4C2C-474E-8FC6-18CC2D5B84E9}.Release|x64.ActiveCfg = Release|x64
+		{F44D02E0-4C2C-474E-8FC6-18CC2D5B84E9}.Release|x64.Build.0 = Release|x64
+		{62E94709-FDC9-4E33-B56A-F6D6487B41E6}.Debug|x64.ActiveCfg = Debug|x64
+		{62E94709-FDC9-4E33-B56A-F6D6487B41E6}.Debug|x64.Build.0 = Debug|x64
+		{62E94709-FDC9-4E33-B56A-F6D6487B41E6}.Release|x64.ActiveCfg = Release|x64
+		{62E94709-FDC9-4E33-B56A-F6D6487B41E6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A4232F-72D8-49F9-8E8E-2354E7F69E49}
+	EndGlobalSection
+EndGlobal
