@@ -1,0 +1,3 @@
+[submodule "Najma/external/spdlog"]
+	path = Najma/external/spdlog
+	url = https://github.com/gabime/spdlog
